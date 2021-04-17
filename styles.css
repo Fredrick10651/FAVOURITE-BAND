@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+    overflow-x: hidden;
+    background-color: white;
+}
+#head {
+    color: red;
+
+}
+
+
+.back{
+    background: url('https://images.unsplash.com/photo-1611898979774-e202e8e9ffbe?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Z3VpdGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60');
+    height: 100vh;
+    text-align: center;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Lobster', cursive;
+
+
+  } 
+  .about{
+      text-align: block;
+      
+  }
+  .title{
+    font-family: 'Lobster', cursive;
+    text-align: center;   
+  }
+  .background{
+    font-family: 'Lobster', cursive;
+    text-align: center;   
+  }
+  .john,.paul, .harrison, .ringo{
+      display: flex;
+      justify-content: space-around;
+      padding: auto;
+  }
