@@ -1,5 +1,5 @@
 # favourite Band
-#### By **Fredrick Angose **
+#### By **Fredrick Angose Mutsotso**
 ## Description
 
  This is the link to my [live site]( https://github.com/Fredrick10651/FAVOURITE-BAND/)
